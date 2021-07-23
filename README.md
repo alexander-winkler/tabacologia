@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/388899305.svg)](https://zenodo.org/badge/latestdoi/388899305)
+
+
 # Tabacologia
 
 Inventory of Neo-Latin tobacco literature.
